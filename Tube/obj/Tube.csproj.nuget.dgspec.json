@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Uni\\Year 2\\C#\\Coursework 2\\Tube\\Tube.csproj": {}
+    "E:\\GihubDesktop\\Object-Oriented-Software-Development_Coursework\\Tube\\Tube.csproj": {}
   },
   "projects": {
-    "F:\\Uni\\Year 2\\C#\\Coursework 2\\Tube\\Tube.csproj": {
+    "E:\\GihubDesktop\\Object-Oriented-Software-Development_Coursework\\Tube\\Tube.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Uni\\Year 2\\C#\\Coursework 2\\Tube\\Tube.csproj",
+        "projectUniqueName": "E:\\GihubDesktop\\Object-Oriented-Software-Development_Coursework\\Tube\\Tube.csproj",
         "projectName": "Tube",
-        "projectPath": "F:\\Uni\\Year 2\\C#\\Coursework 2\\Tube\\Tube.csproj",
+        "projectPath": "E:\\GihubDesktop\\Object-Oriented-Software-Development_Coursework\\Tube\\Tube.csproj",
         "packagesPath": "C:\\Users\\Artur\\.nuget\\packages\\",
-        "outputPath": "F:\\Uni\\Year 2\\C#\\Coursework 2\\Tube\\obj\\",
+        "outputPath": "E:\\GihubDesktop\\Object-Oriented-Software-Development_Coursework\\Tube\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Artur\\AppData\\Roaming\\NuGet\\NuGet.Config",

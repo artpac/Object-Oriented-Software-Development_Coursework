@@ -1,20 +1,20 @@
 ﻿Tube
-
+1.0.0.0
 
 winexe
 C#
 .cs
-F:\Uni\Year 2\C#\Coursework 2\Tube\obj\Debug\net6.0-windows\
+e:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\
 Tube
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-F:\Uni\Year 2\C#\Coursework 2\Tube\App.xaml
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+e:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\App.xaml
 11407045341
 
-6-243151256
+81668792464
 194-1325968647
 MainWindow.xaml;
 
-False
+True
 

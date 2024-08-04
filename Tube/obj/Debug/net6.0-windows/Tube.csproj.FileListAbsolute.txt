@@ -81,3 +81,23 @@ F:\Uni\Year 2\C#\Coursework 2\Tube\obj\Debug\net6.0-windows\refint\Tube.dll
 F:\Uni\Year 2\C#\Coursework 2\Tube\obj\Debug\net6.0-windows\Tube.pdb
 F:\Uni\Year 2\C#\Coursework 2\Tube\obj\Debug\net6.0-windows\Tube.genruntimeconfig.cache
 F:\Uni\Year 2\C#\Coursework 2\Tube\obj\Debug\net6.0-windows\ref\Tube.dll
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\bin\Debug\net6.0-windows\Tube.exe
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\bin\Debug\net6.0-windows\Tube.deps.json
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\bin\Debug\net6.0-windows\Tube.runtimeconfig.json
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\bin\Debug\net6.0-windows\Tube.dll
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\bin\Debug\net6.0-windows\Tube.pdb
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\App.g.cs
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube_MarkupCompile.cache
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube_MarkupCompile.lref
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\MainWindow.baml
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube.g.resources
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube.GeneratedMSBuildEditorConfig.editorconfig
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube.AssemblyInfoInputs.cache
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube.AssemblyInfo.cs
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube.csproj.CoreCompileInputs.cache
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube.dll
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\refint\Tube.dll
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube.pdb
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\Tube.genruntimeconfig.cache
+E:\GihubDesktop\Object-Oriented-Software-Development_Coursework\Tube\obj\Debug\net6.0-windows\ref\Tube.dll
